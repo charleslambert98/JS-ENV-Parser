@@ -1,8 +1,8 @@
 {
   "name": "envtest",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple script designed to process system environment variables for use in other code.",
+  "main": "parseEnv.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
